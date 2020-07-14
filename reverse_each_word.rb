@@ -1,12 +1,12 @@
 
 
-def reverse_each_word(sentence 1)
+# def reverse_each_word(sentence 1)
   
-  "Hello there, and how are you?"
+#   "Hello there, and how are you?"
   
-end
+# end
 
-def reverse_each_word(sentence 2)
-"Hi again, just making sure it's reversed!"
+# def reverse_each_word(sentence 2)
+# "Hi again, just making sure it's reversed!"
 
-end
+# end
